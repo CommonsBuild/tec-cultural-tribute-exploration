@@ -1,0 +1,23 @@
+"""Hourly"" Impact rate increases while the % of the total tokens allocated decreases",,,
+Total Hours,5000,120 hours a week for ~6 months,
+Cultural Build Tribute Percent,Hatch raise (DAI),"""Hourly"" Impact Rate",
+1%,100000000,200,DAI/hour
+2%,47500000,190,DAI/hour
+3%,30000000,180,DAI/hour
+4%,21250000,170,DAI/hour
+5%,16000000,160,DAI/hour
+6%,12500000,150,DAI/hour
+7%,10000000,140,DAI/hour
+8%,8125000,130,DAI/hour
+9%,6666667,120,DAI/hour
+10%,5500000,110,DAI/hour
+11%,4545455,100,DAI/hour
+12%,3750000,90,DAI/hour
+13%,3076923,80,DAI/hour
+14%,2500000,70,DAI/hour
+15%,2000000,60,DAI/hour
+16%,1562500,50,DAI/hour
+17%,1176471,40,DAI/hour
+18%,833333,30,DAI/hour
+19%,526316,20,DAI/hour
+20%,250000,10,DAI/hour
